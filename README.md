@@ -1,6 +1,6 @@
 # virus-simulation
 
-This web-application simulates a virus and shows important values via a graph. <br>
+This p5.js web-application simulates a virus and shows important values via a graph. <br>
 It is also applicable to COVID-19 with adjusting the parameters. <br>
 Parameters you can adjust are:
 - number of cells
