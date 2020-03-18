@@ -17,10 +17,10 @@ It contains:
 
 ## Cells
 Things that can be infected. Four possible states:
-- dead
-- recovered
-- infected
-- healthy
+- dead (black)
+- recovered (yellow)
+- infected (red)
+- healthy (green)
 
 ## System
 The system contains cells and simulates an environment. 
