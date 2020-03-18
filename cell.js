@@ -100,7 +100,7 @@ class Cell {
             }
             // decrease infectionTimer
             this.infectionTimer--;
-            // check if you recovered
+            // check if you have recovered
             if(this.infectionTimer == 0) {
                 // if the cell has recovered, set infected to false
                 this.infected = false;
