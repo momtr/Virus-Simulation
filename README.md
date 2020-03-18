@@ -18,7 +18,7 @@ It contains:
 ## Cells
 Things that can be infected. Four possible states:
 - dead
-- recovere
+- recovered
 - infected
 - healthy
 
