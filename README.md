@@ -10,6 +10,8 @@ Parameters you can adjust are:
 - propability of dying
 - propability of getting the virus again after the cell has recovered
 
+![virus simulator](https://github.com/moritzmitterdorfer/virus-simulation/blob/master/img.PNG)
+
 <br>
 It contains: 
 
