@@ -22,7 +22,7 @@ Things that can be infected. Four possible states:
 - infected (red)
 - healthy (green)
 <br>
-This can be seen on the graph below:<br>
+This can be seen on the graphs below:<br>
 
 ![graph](https://github.com/moritzmitterdorfer/virus-simulation/blob/master/graph.png)
 
